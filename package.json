@@ -1,6 +1,6 @@
 {
   "name": "vite-ignore-style",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "vite ignore style plugin",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
