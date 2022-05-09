@@ -7,6 +7,10 @@
   "scripts": {
     "tsc": "rm -rf dist && rm -rf types && tsc"
   },
+  "directories": {
+    "lib": "dist",
+    "es":" dist"
+  },
   "files": [
     "dist",
     "types"
